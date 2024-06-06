@@ -26,6 +26,7 @@ graphviz = "^0.20.3"
 tavily-python = "^0.3.3"
 bs4 = "^0.0.2"
 duckduckgo-search = "^6.1.5"
+aiosqlite = "^0.20.0"
 
 
 [tool.poetry.group.dev.dependencies]
