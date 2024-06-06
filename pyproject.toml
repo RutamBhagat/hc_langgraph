@@ -21,6 +21,8 @@ langchain-openai = "^0.1.8"
 langgraph = "^0.0.64"
 grandalf = "^0.8"
 openai = "^1.31.1"
+langchain-community = "^0.2.3"
+graphviz = "^0.20.3"
 
 
 [tool.poetry.group.dev.dependencies]
